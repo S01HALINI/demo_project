@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+.rcorners3 {
+  border-radius: 15px;
+  background-color:rgb(231, 235, 236);
+  background-position: left-top;
+  
+  padding: 5px; 
+  width: 150px;
+  height:13px; 
+}
+
+.rcorners2 {
+  border-radius: 15px;
+  background-color:rgb(191, 199, 202);
+  background-position: left top;
+  
+  padding: 5px; 
+  width:50px;
+  height:30px; 
+}
